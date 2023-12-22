@@ -142,3 +142,5 @@ cd assets/
 mv images client/assets
 mkdir images
 cd images
+touch backgrond.jpg
+touch background.jpg
