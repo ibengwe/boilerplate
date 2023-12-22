@@ -186,3 +186,4 @@ __vsc_prompt_cmd_original
 rm client/assets/fonts/lato-bold.tiff
 touch client/assets/fonts/lato-light.ttf
 find
+rm --help
