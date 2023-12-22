@@ -73,3 +73,9 @@ ls --color=auto -a
 cd ..
 cd website/
 cd .
+ls --color=auto
+cd ..
+cd website/
+cd .
+cd .
+touch background.jpg
