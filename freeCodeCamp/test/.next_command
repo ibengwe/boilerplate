@@ -92,3 +92,5 @@ touch freeCodeCamp.svg
 ls --color=auto
 mkdir images
 ls --color=auto
+cp background.jpg image
+cp background.jpg images
