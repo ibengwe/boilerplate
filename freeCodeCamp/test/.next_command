@@ -144,3 +144,4 @@ mkdir images
 cd images
 touch backgrond.jpg
 touch background.jpg
+cd ../../..
