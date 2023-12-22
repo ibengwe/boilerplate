@@ -162,3 +162,4 @@ find
 rmdir images
 find -name background.jpg
 rm images/background.jpg
+rmdir images
